@@ -58,7 +58,7 @@ const Login = () => {
         <div>
             <Modal show={show}>
                 <div className="welcome-text">
-                    <Modal.Header ><h3 >welcome</h3></Modal.Header>
+                    <Modal.Header ><h3 >WELCOME</h3></Modal.Header>
                 </div>
                 <div >
 
