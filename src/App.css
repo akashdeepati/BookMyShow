@@ -1,0 +1,20 @@
+.middle{
+  text-align: center;
+
+}
+.welcome-text{
+  text-align: center;
+}
+.user-text{
+  cursor: pointer;
+}
+.login-button{
+ text-align: center;
+}
+.back-button{
+  display: flex;
+  justify-content: center;
+}
+.pageLi{
+  display: inline;
+}
